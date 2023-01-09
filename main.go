@@ -65,4 +65,7 @@ func main() {
 			time.Now().Add(pongWait))
 		return nil
 	})
+	for {
+
+	}
 }
